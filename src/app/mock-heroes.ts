@@ -1,15 +1,15 @@
 import { Hero } from './hero';
 
 export const HEROES: Hero[] = [
-  { id: 10, name: 'MégaMind' },
-  { id: 11, name: 'Mr. Nice' },
-  { id: 12, name: 'Narco' },
-  { id: 13, name: 'Bombasto' },
-  { id: 14, name: 'Celeritas' },
-  { id: 15, name: 'Magneta' },
-  { id: 16, name: 'RubberMan' },
-  { id: 17, name: 'Dynama' },
-  { id: 18, name: 'Dr IQ' },
-  { id: 19, name: 'Magma' },
-  { id: 20, name: 'Tornado' }
+  { id: 10, name: 'Spawn' },
+  { id: 11, name: 'Hulk' },
+  { id: 12, name: 'Thor'  },
+  { id: 13, name: 'GoKu' },
+  { id: 14, name: 'Silver Surfer' },
+  { id: 15, name: 'Sentry' },
+  { id: 16, name: 'Dr. Strange' },
+  { id: 17, name: 'Franklin Richards' },
+  { id: 18, name: 'Black Bolt' },
+  { id: 19, name: 'Flash' },
+  { id: 20, name: 'Green Lantern' }
 ];
